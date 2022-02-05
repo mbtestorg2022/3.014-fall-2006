@@ -19,33 +19,459 @@ Students are responsible for recording procedure, data, data analysis in their l
 
 Grading Approach for Lab Notebooks ([PDF]({{< baseurl >}}/resources/labnotebook_grad))
 
-| THEMES | TOPICS | EXPERIMENTS | VIDEOS AND PHOTOS | INSTRUCTORS |
-| --- | --- | --- | --- | --- |
-| {{< td-colspan 5 >}}**Lab Week 1**{{< /td-colspan >}} |||||
-| α Amorphous Polymers | α1 Polymer Structures | XRD and DSC Studies of Acrylates Polymers ([PDF]({{< baseurl >}}/resources/w1_a1)) | &nbsp; | Dr. Meri Treska |
-| α2 Polymer Conformation | Dynamic Light Scattering Study of Polymer Chain Dimensions ([PDF]({{< baseurl >}}/resources/w1_a2)) | &nbsp; | Prof. Francesco Stellacci |
-| β Glass Materials | β1 Structure of Borate Glasses (Part 1) | Tg and Raman Spectra of Borate Glasses (_notes unavailable_) | [Photos: Melting and Drawing Fibers of Borate Glass]({{< baseurl >}}/pages/labs/w1b2_borateglass) | Prof. Linn Hobbs & Mr. Dilan A. Seneviratne |
-| β2 Structure of Borate Glasses (Part 2) | XRD, RDF and Speed of Sound in Borate Glasses (_notes unavailable_) | &nbsp; | Prof. Linn Hobbs & Mr. Benjamin Hardy Wunsch |
-| γ Quantifying Thermodynamic Properties of Materials | γ1 Thermal Energy Storage | DSC Study of Lauric/Stereatic Acid Mixtures as Phase Change Materials ([PDF]({{< baseurl >}}/resources/w1_g1)) | Video: ([MP4 ‑ 211 MB](http://www.archive.org/download/MIT3.014F06/ocw-3.014-22sept2006-220k.mp4)) | Dr. Geetha P. Berera |
-| γ2 Magnetic Work | Work Derived from Magnetic Hysteresis Curves ([PDF]({{< baseurl >}}/resources/w1_g2)) | &nbsp; | Prof. Silvija Gradecak |
-| {{< td-colspan 5 >}}**Lab Week 2**{{< /td-colspan >}} |||||
-| α Quantifying Thermodynamic Properties | α1 Liquid Crystal | Switching Energy for a Liquid Crystal Display ([PDF]({{< baseurl >}}/resources/w2_a1)) | &nbsp; | Prof. Silvija Gradecak |
-| α2 Mechanical Work | AFM/DSC Study of Protein Denaturation ([PDF]({{< baseurl >}}/resources/w2_a2)) | &nbsp; | Mr. Benjamin Hardy Wunsch |
-| β Crystalline Structures | β1 Radius Ratios in Ionic Crystals | XRD Study of Piezo- and Ferroelectric Oxide Structures ([PDF]({{< baseurl >}}/resources/w2_b1)) | &nbsp; | Prof. Francesco Stellacci |
-| β2 Crystal Polymorphs | XRD Study of Cubictetragonal Transition in Perovskites ([PDF]({{< baseurl >}}/resources/w2_b2)) | &nbsp; | Dr. Geetha P. Berera |
-| γ Diffraction Principles | γ1 Derivative Structures |  {{< br >}}{{< br >}} XRD of Crystals with Covalent, Ionic and Metallic Bonds ([PDF]({{< baseurl >}}/resources/w2_g1)) {{< br >}}{{< br >}} Background Notes on Diffraction of Materials ([PDF]({{< baseurl >}}/resources/w2_gamma_notes)) {{< br >}}{{< br >}}  | &nbsp; | Dr. Meri Treska |
-| γ2 Laser Diffraction |  {{< br >}}{{< br >}} Diffraction of Crystalline and Amorphous Arrangements of Dots ([PDF]({{< baseurl >}}/resources/w2_g2)) {{< br >}}{{< br >}} Background Notes on Diffraction of Materials ([PDF]({{< baseurl >}}/resources/w2_gamma_notes)) {{< br >}}{{< br >}}  | Video: ([MP4 ‑ 251 MB](http://www.archive.org/download/MIT3.014F06/ocw-3.014-18oct2006-220k.mp4)) | Prof. Linn Hobbs |
-| {{< td-colspan 5 >}}**Lab Week 3**{{< /td-colspan >}} |||||
-| α Materials as "Particle in a Box" Models | α1 F-centers | X-Ray Generation and Optical Studies of Alkali Halide F-centers ([PDF]({{< baseurl >}}/resources/w3_a1)) | &nbsp; | Mr. Benjamin Hardy Wunsch |
-| α2 Quantum Dots | Synthesis and Optical Study of CdSe Quantum Dots ([PDF]({{< baseurl >}}/resources/w3_a2)) | Video: ([MP4 ‑ 75 MB](http://www.archive.org/download/MIT3.014F06/ocw-3.014-17nov2006-220k.mp4)) | Prof. Francesco Stellacci |
-| β Visualizing Gibbs Free Energy | β1 Batteries | OCV of Pb-Acid Batteries ([PDF]({{< baseurl >}}/resources/w3_b1)) | &nbsp; | Dr. Geetha P. Berera |
-| β2 Corrosion | Anodic Corrosion and EMF Series ([PDF]({{< baseurl >}}/resources/w3_b2)) | &nbsp; | Prof. Linn Hobbs |
-| γ Phase Transitions | γ1 Phase Separation | Cloud Point Study of Polystyrene/Methyl Cyclohexane ([PDF]({{< baseurl >}}/resources/w3_g1)) | &nbsp; | Dr. Meri Treska |
-| γ2 Ferromagnetic Transitions | VSM study of Curie Temperatures ([PDF]({{< baseurl >}}/resources/w3_g2)) | &nbsp; | Prof. Silvija Gradecak |
-| {{< td-colspan 5 >}}**Lab Week 4**{{< /td-colspan >}} |||||
-| α Bonds and Wavefunctions | α1 Electron Wavefunctions | Visualizing Electron Wavefunctions in Au, Graphite and SAMs ([PDF]({{< baseurl >}}/resources/w4_a1)) | &nbsp; | Prof. Silvija Gradecak |
-| α2 Delocalization | Optical Characterization of Band Gap in Benzene, Anthracene, Pantacene, C60 ([PDF]({{< baseurl >}}/resources/w4_a2)) | &nbsp; | Mr. Benjamin Hardy Wunsch |
-| β Vibration in Materials | β1 Phonon Curves | FTIR from Oligomers to Polymers; Ball and String Model ([PDF]({{< baseurl >}}/resources/w4_b1)) | &nbsp; | Prof. Francesco Stellacci |
-| β2 Mechanical Strength and Vibrations | Young Modulus and Speed of Sound in Borate Glasses ([PDF]({{< baseurl >}}/resources/w4_b2)) | Video: ([MP4 ‑ 255 MB](http://www.archive.org/download/MIT3.014F06/ocw-3.014-13dec2006-220k.mp4)) | Prof. Linn Hobbs |
-| γ Phase Diagrams | γ1 Eutectics | Eutectic Determination of an Organic Transistor Material ([PDF]({{< baseurl >}}/resources/w4_g1)) | &nbsp; | Dr. Geetha P. Berera |
-| γ2 Order Disorder Transitions | X-ray Diffraction Study of Ordering in CoPt ([PDF]({{< baseurl >}}/resources/w4_g2)) | &nbsp; | Dr. Meri Treska
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+THEMES
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+EXPERIMENTS
+{{< thclose >}}
+{{< thopen >}}
+VIDEOS AND PHOTOS
+{{< thclose >}}
+{{< thopen >}}
+INSTRUCTORS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Lab Week 1**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+α Amorphous Polymers
+{{< tdclose >}}
+{{< tdopen >}}
+α1 Polymer Structures
+{{< tdclose >}}
+{{< tdopen >}}
+XRD and DSC Studies of Acrylates Polymers ([PDF]({{< baseurl >}}/resources/w1_a1))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Meri Treska
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+α2 Polymer Conformation
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamic Light Scattering Study of Polymer Chain Dimensions ([PDF]({{< baseurl >}}/resources/w1_a2))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Francesco Stellacci
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+β Glass Materials
+{{< tdclose >}}
+{{< tdopen >}}
+β1 Structure of Borate Glasses (Part 1)
+{{< tdclose >}}
+{{< tdopen >}}
+Tg and Raman Spectra of Borate Glasses (_notes unavailable_)
+{{< tdclose >}}
+{{< tdopen >}}
+[Photos: Melting and Drawing Fibers of Borate Glass]({{< baseurl >}}/pages/labs/w1b2_borateglass)
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Linn Hobbs & Mr. Dilan A. Seneviratne
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+β2 Structure of Borate Glasses (Part 2)
+{{< tdclose >}}
+{{< tdopen >}}
+XRD, RDF and Speed of Sound in Borate Glasses (_notes unavailable_)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Linn Hobbs & Mr. Benjamin Hardy Wunsch
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+γ Quantifying Thermodynamic Properties of Materials
+{{< tdclose >}}
+{{< tdopen >}}
+γ1 Thermal Energy Storage
+{{< tdclose >}}
+{{< tdopen >}}
+DSC Study of Lauric/Stereatic Acid Mixtures as Phase Change Materials ([PDF]({{< baseurl >}}/resources/w1_g1))
+{{< tdclose >}}
+{{< tdopen >}}
+Video: ([MP4 ‑ 211 MB](http://www.archive.org/download/MIT3.014F06/ocw-3.014-22sept2006-220k.mp4))
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Geetha P. Berera
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+γ2 Magnetic Work
+{{< tdclose >}}
+{{< tdopen >}}
+Work Derived from Magnetic Hysteresis Curves ([PDF]({{< baseurl >}}/resources/w1_g2))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Silvija Gradecak
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Lab Week 2**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+α Quantifying Thermodynamic Properties
+{{< tdclose >}}
+{{< tdopen >}}
+α1 Liquid Crystal
+{{< tdclose >}}
+{{< tdopen >}}
+Switching Energy for a Liquid Crystal Display ([PDF]({{< baseurl >}}/resources/w2_a1))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Silvija Gradecak
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+α2 Mechanical Work
+{{< tdclose >}}
+{{< tdopen >}}
+AFM/DSC Study of Protein Denaturation ([PDF]({{< baseurl >}}/resources/w2_a2))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Mr. Benjamin Hardy Wunsch
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+β Crystalline Structures
+{{< tdclose >}}
+{{< tdopen >}}
+β1 Radius Ratios in Ionic Crystals
+{{< tdclose >}}
+{{< tdopen >}}
+XRD Study of Piezo- and Ferroelectric Oxide Structures ([PDF]({{< baseurl >}}/resources/w2_b1))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Francesco Stellacci
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+β2 Crystal Polymorphs
+{{< tdclose >}}
+{{< tdopen >}}
+XRD Study of Cubictetragonal Transition in Perovskites ([PDF]({{< baseurl >}}/resources/w2_b2))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Geetha P. Berera
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+γ Diffraction Principles
+{{< tdclose >}}
+{{< tdopen >}}
+γ1 Derivative Structures
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+XRD of Crystals with Covalent, Ionic and Metallic Bonds ([PDF]({{< baseurl >}}/resources/w2_g1))
+
+Background Notes on Diffraction of Materials ([PDF]({{< baseurl >}}/resources/w2_gamma_notes))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Meri Treska
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+γ2 Laser Diffraction
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Diffraction of Crystalline and Amorphous Arrangements of Dots ([PDF]({{< baseurl >}}/resources/w2_g2))
+
+Background Notes on Diffraction of Materials ([PDF]({{< baseurl >}}/resources/w2_gamma_notes))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Video: ([MP4 ‑ 251 MB](http://www.archive.org/download/MIT3.014F06/ocw-3.014-18oct2006-220k.mp4))
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Linn Hobbs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Lab Week 3**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+α Materials as "Particle in a Box" Models
+{{< tdclose >}}
+{{< tdopen >}}
+α1 F-centers
+{{< tdclose >}}
+{{< tdopen >}}
+X-Ray Generation and Optical Studies of Alkali Halide F-centers ([PDF]({{< baseurl >}}/resources/w3_a1))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Mr. Benjamin Hardy Wunsch
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+α2 Quantum Dots
+{{< tdclose >}}
+{{< tdopen >}}
+Synthesis and Optical Study of CdSe Quantum Dots ([PDF]({{< baseurl >}}/resources/w3_a2))
+{{< tdclose >}}
+{{< tdopen >}}
+Video: ([MP4 ‑ 75 MB](http://www.archive.org/download/MIT3.014F06/ocw-3.014-17nov2006-220k.mp4))
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Francesco Stellacci
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+β Visualizing Gibbs Free Energy
+{{< tdclose >}}
+{{< tdopen >}}
+β1 Batteries
+{{< tdclose >}}
+{{< tdopen >}}
+OCV of Pb-Acid Batteries ([PDF]({{< baseurl >}}/resources/w3_b1))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Geetha P. Berera
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+β2 Corrosion
+{{< tdclose >}}
+{{< tdopen >}}
+Anodic Corrosion and EMF Series ([PDF]({{< baseurl >}}/resources/w3_b2))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Linn Hobbs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+γ Phase Transitions
+{{< tdclose >}}
+{{< tdopen >}}
+γ1 Phase Separation
+{{< tdclose >}}
+{{< tdopen >}}
+Cloud Point Study of Polystyrene/Methyl Cyclohexane ([PDF]({{< baseurl >}}/resources/w3_g1))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Meri Treska
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+γ2 Ferromagnetic Transitions
+{{< tdclose >}}
+{{< tdopen >}}
+VSM study of Curie Temperatures ([PDF]({{< baseurl >}}/resources/w3_g2))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Silvija Gradecak
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Lab Week 4**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+α Bonds and Wavefunctions
+{{< tdclose >}}
+{{< tdopen >}}
+α1 Electron Wavefunctions
+{{< tdclose >}}
+{{< tdopen >}}
+Visualizing Electron Wavefunctions in Au, Graphite and SAMs ([PDF]({{< baseurl >}}/resources/w4_a1))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Silvija Gradecak
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+α2 Delocalization
+{{< tdclose >}}
+{{< tdopen >}}
+Optical Characterization of Band Gap in Benzene, Anthracene, Pantacene, C60 ([PDF]({{< baseurl >}}/resources/w4_a2))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Mr. Benjamin Hardy Wunsch
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+β Vibration in Materials
+{{< tdclose >}}
+{{< tdopen >}}
+β1 Phonon Curves
+{{< tdclose >}}
+{{< tdopen >}}
+FTIR from Oligomers to Polymers; Ball and String Model ([PDF]({{< baseurl >}}/resources/w4_b1))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Francesco Stellacci
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+β2 Mechanical Strength and Vibrations
+{{< tdclose >}}
+{{< tdopen >}}
+Young Modulus and Speed of Sound in Borate Glasses ([PDF]({{< baseurl >}}/resources/w4_b2))
+{{< tdclose >}}
+{{< tdopen >}}
+Video: ([MP4 ‑ 255 MB](http://www.archive.org/download/MIT3.014F06/ocw-3.014-13dec2006-220k.mp4))
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Linn Hobbs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+γ Phase Diagrams
+{{< tdclose >}}
+{{< tdopen >}}
+γ1 Eutectics
+{{< tdclose >}}
+{{< tdopen >}}
+Eutectic Determination of an Organic Transistor Material ([PDF]({{< baseurl >}}/resources/w4_g1))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Geetha P. Berera
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+γ2 Order Disorder Transitions
+{{< tdclose >}}
+{{< tdopen >}}
+X-ray Diffraction Study of Ordering in CoPt ([PDF]({{< baseurl >}}/resources/w4_g2))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Meri Treska
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
