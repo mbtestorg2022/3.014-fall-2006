@@ -4,6 +4,7 @@ description: This resource discusses the experiment DSC study of glass transitio
   in acrylate polymers for the topic ?2 glass transitions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-014-materials-laboratory-fall-2006/210f43c165eaa0a206b3a293309d8740_g2_acrylate.pdf
 file_type: application/pdf
+parent_uid: 178a3f23-79e5-2e6c-90c3-e52c15603a59
 resourcetype: Document
 title: g2_acrylate.pdf
 uid: 210f43c1-65ea-a0a2-06b3-a293309d8740

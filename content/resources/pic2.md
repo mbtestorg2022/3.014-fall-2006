@@ -7,6 +7,7 @@ image_metadata:
   caption: "The glass is heated to 900\xB0C in a box furnace."
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Crucibles in the furnace.
+parent_uid: aa777058-89d8-a4d2-b3b2-dad8d2f2d935
 resourcetype: Image
 title: pic2.jpg
 uid: 90068a34-b329-832c-43cb-a6c9adf8c980

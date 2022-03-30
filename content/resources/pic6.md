@@ -9,6 +9,7 @@ image_metadata:
     after removal from the oven.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: The glowing hot crucible.
+parent_uid: aa777058-89d8-a4d2-b3b2-dad8d2f2d935
 resourcetype: Image
 title: pic6.jpg
 uid: ecf85cc7-b307-b620-1736-b232be87dfd9

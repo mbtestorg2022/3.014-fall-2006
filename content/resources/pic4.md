@@ -7,6 +7,7 @@ image_metadata:
   caption: A student removes a heated crucible with tongs.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Removing a heated crucible with tongs.
+parent_uid: aa777058-89d8-a4d2-b3b2-dad8d2f2d935
 resourcetype: Image
 title: pic4.jpg
 uid: 017302f4-30e6-efda-18c9-ea18c1f0daf7

@@ -9,6 +9,7 @@ image_metadata:
     continues to glow).
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Pouring the molten glass.
+parent_uid: aa777058-89d8-a4d2-b3b2-dad8d2f2d935
 resourcetype: Image
 title: pic7.jpg
 uid: dad4b25e-8a8f-7947-ac50-7dfc4bddb2af
